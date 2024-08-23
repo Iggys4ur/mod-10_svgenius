@@ -1,5 +1,5 @@
 
-# SVGenesis: Node.js Command-Line SVG Logo Maker
+# [Module 10] SVGenesis: Node.js Command-Line SVG Logo Maker
 
 ## Overview
 
