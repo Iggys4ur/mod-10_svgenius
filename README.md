@@ -47,6 +47,8 @@ To install and run SVGenesis locally, follow these steps:
 
 A walkthrough video demonstrating the steps to generate a logo, from starting the application to saving the SVG file:
 
+[Link to README with embedded demo.np4 (file too large for github)](https://iggys4ur.github.io/mod-10_svgenius/)
+
 <video width="480" height="360" controls>
   <source src="./demo.mp4" type="video/mp4">
 </video>
