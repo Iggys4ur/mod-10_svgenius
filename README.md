@@ -23,7 +23,7 @@ To install and run SVGenesis locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Iggys4ur/mod-10_svgenius.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -45,13 +45,8 @@ To install and run SVGenesis locally, follow these steps:
 
 ## Demo
 
-A walkthrough video demonstrating how to use SVGenesis can be found [here](#). This video shows the steps to generate a logo, from starting the application to saving the SVG file.
+A walkthrough video demonstrating how to use SVGenesis can be found [here](#demo.mp4). This video shows the steps to generate a logo, from starting the application to saving the SVG file.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-- Thanks to the developers of Node.js and Inquirer.js for providing the tools that make this application possible.
-- Special thanks to the contributors who provided feedback and suggestions during the development of SVGenesis.
